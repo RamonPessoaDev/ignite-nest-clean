@@ -13,7 +13,7 @@ git clone https://github.com/RamonPessoaDev/ignite-nest-clean
 #### 1º Executar esse comando após clonar o projeto para instalação das dependências
 
 ```sh
-pnpm add
+pnpm i
 ```
 
 #### 2º Caso não tenha o pnpm
