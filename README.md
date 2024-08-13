@@ -22,9 +22,9 @@ pnpm add
 npm i -g pnpm
 ```
 
-### 3º Após isso executar o comando do 1º passo
+### 3º Após isso executar o comando do 1º passo<br><br>
 
-### 4º Criar um arquivo .env, seguindo o arquivo de ajuda .env.example
+### 4º Criar um arquivo .env, seguindo o arquivo de ajuda .env.example<br><br>
 
 ### 5º Ter o dcoker instalado na máquina e executar o comando
 
@@ -48,5 +48,3 @@ pnpm start:dev
 
 - NestJS 💻
 - Docker ⚡
-
-## Link do projeto
